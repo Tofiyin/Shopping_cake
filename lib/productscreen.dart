@@ -29,7 +29,6 @@ class _ProductScreenState extends State<ProductScreen> {
               Column(
                 children: [
                   SizedBox(
-                    //height: 200,
                     width: double.infinity,
                     child: Padding(
                       padding: const EdgeInsets.fromLTRB(15.0, 0.0, 15.0, 0.0),

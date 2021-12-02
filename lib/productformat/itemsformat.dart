@@ -18,7 +18,7 @@ class ProductFormat {
 List<ProductFormat> productDetails = [
   ProductFormat(
     name: 'Ice Cream cerry',
-    item_image: 'assets/icecream.jpg',
+    item_image: 'assets/icecream.jfif',
     price: 12,
     container_color: const Color(0xffC38F7B),
     icon_color: Colors.yellow,
@@ -27,7 +27,7 @@ List<ProductFormat> productDetails = [
   ),
   ProductFormat(
     name: 'Red Velvet Cream',
-    item_image: 'assets/redvelvet.jpeg',
+    item_image: 'assets/Redvelvet.jfif',
     price: 16,
     container_color: const Color(0xffF9B296),
     icon_color: Colors.yellow,

@@ -262,7 +262,8 @@ class _HomepageState extends State<Homepage> {
                             mainAxisAlignment: MainAxisAlignment.start,
                             children: [
                               const CircleAvatar(
-                                backgroundImage: AssetImage('assets/profile.png'),
+                                backgroundImage:
+                                    AssetImage('assets/profile.png'),
                                 radius: 35,
                               ),
                               const SizedBox(width: 15),
